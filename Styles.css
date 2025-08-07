@@ -1,0 +1,66 @@
+body {
+  color: palegoldenrod;
+  background: black;
+  margin: 4px;
+  font-family: "Playwrite AU QLD", cursive;
+  margin-bottom: -13px;
+}
+
+
+  hearder {
+  border-bottom: solid 2px goldenrod;
+  padding: 24px;
+  font-size: 34px;
+  color: goldenrod;
+ }
+
+.chamada {
+  background: rgb(161, 120, 16);
+  padding-bottom: 30px;
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.chamada-texto {
+ margin-right: 5%;
+}
+
+h1 {
+font-size: 40px;
+}
+
+p {
+font-size: 30px;
+}
+
+
+imag {
+height: 250px;
+}
+
+.categoria {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+
+.categoria {
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 13px;
+}
+
+.categoria-videos img {
+  opacity: 0.5;
+  height: 200px;
+}
+
+ .categoria-videos imig: hover{
+   opacity: 1.0px;
+   border: 3px solid plum;
+ }
+
+ .categoria h2 {
+   color: goldenrod;
+ }
